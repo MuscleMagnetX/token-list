@@ -3423,4 +3423,13 @@
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
   }
+,
+{
+  "name": "MuscleMagnetX",
+  "symbol": "MMX",
+  "address": "0x3B356754122A6983C4E8d3b431507b31dfa8ab42",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/MuscleMagnetX/assets/main/blockchains/smartchain/assets/0x3B356754122A6983C4E8d3b431507b31dfa8ab42/logo.png"
+}
 ]
